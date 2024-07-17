@@ -1,0 +1,24 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  h1 {
+    color: #007bff;
+  }
+  
+  .table th, .table td {
+    text-align: center;
+  }
+  
+  .input-group-append .btn {
+    border-radius: 0 0.375rem 0.375rem 0;
+  }
+  
+  .alert {
+    margin-top: 20px;
+  }
+  
+  a {
+    word-break: break-all;
+  }
+  
